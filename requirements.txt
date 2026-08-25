@@ -1,0 +1,12 @@
+requests==2.31.0
+whois==0.9.7
+dnspython==2.4.2
+urllib3==2.0.7
+validators==0.22.0
+beautifulsoup4==4.12.2
+reportlab==4.0.9
+python-dotenv==1.0.0
+pandas==2.0.3
+Pillow==10.0.0
+ssl-scanner==0.1.2
+ssl-cert-check==1.0.0

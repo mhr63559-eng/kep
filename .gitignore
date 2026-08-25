@@ -37,6 +37,9 @@ ENV/
 # Reports
 reports/
 *.pdf
+*.json
+*.csv
+*.log
 
 # OS
 .DS_Store
